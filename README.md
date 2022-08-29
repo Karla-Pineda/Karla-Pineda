@@ -15,6 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/karla21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karla21" height="30" width="40" /></a>
+<a href="https://fb.com/karla pineda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karla pineda" height="30" width="40" /></a>
+<a href="https://instagram.com/karla_pm_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karla_pm_04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karla-pineda&show_icons=true&locale=en" alt="karla-pineda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karla-pineda&" alt="karla-pineda" /></p>
-
 
 <!---
 Karla-Pineda/Karla-Pineda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
