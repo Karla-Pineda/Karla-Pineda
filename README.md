@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Karla-Pineda
 - 👀 I’m interested in aprender 
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning programacion
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me abajo de un puente 
 <h1 align="center">Hi 👋, I'm Karla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
