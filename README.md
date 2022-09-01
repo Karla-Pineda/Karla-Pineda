@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning programacion
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me abajo de un puente 
-<h1 align="center">Hi 👋, I'm Karla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h1 align="center">Hi 👋, I'm Karla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
